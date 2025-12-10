@@ -228,7 +228,7 @@
         "config_cpu_name": "vexriscv",
         "config_cpu_human_name": "vexriscv",
         "config_cpu_nop": "nop",
-        "config_identifier": "litex soc on colorlight i9 2025-12-10 10:17:49",
+        "config_identifier": "litex soc on colorlight i9 2025-12-10 11:22:22",
         "spiflash_phy_frequency": 15000000,
         "spiflash_module_name": "w25q64",
         "spiflash_module_total_size": 8388608,

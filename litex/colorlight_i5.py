@@ -32,8 +32,8 @@ _hdmi_infos = [
         Subsignal("data2_n", Pins("T17")),
         
         # Clock (Sincronia) - Pinos 11 e 12
-        Subsignal("clk_p",   Pins("M18")),
-        Subsignal("clk_n",   Pins("L18")),
+        Subsignal("clk_p",   Pins("L18")),
+        Subsignal("clk_n",   Pins("M18")),
         
         # O padrão LVCMOS33 é usado porque o ECP5 emula HDMI via GPIO
         IOStandard("LVCMOS33"),

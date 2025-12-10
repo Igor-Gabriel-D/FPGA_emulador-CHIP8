@@ -1,0 +1,13 @@
+[options]
+multilib = false
+picocrt = false
+atomic-ungetc = false
+thread-local-storage = false
+io-long-long = true
+format-default = integer
+includedir = picolibc/riscv-none-elf/include
+libdir = picolibc/riscv-none-elf/lib
+
+[properties]
+cross_file = ['/home/joao/Documentos/Embarcatech/FPGA/Embarcatech-Tarefa-7-FPGA/litex/build/colorlight_i5/software/libc/cross.txt']
+
